@@ -1,0 +1,23 @@
+{
+  "name": "@ricode/ghostscript-node",
+  "version": "1.0.0",
+  "description": "javascript interface for ghostscript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ritesh4u/ghostscript-node.git"
+  },
+  "keywords": [
+    "PDF",
+    "ghostscript"
+  ],
+  "author": "Ritesh Niwane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ritesh4u/ghostscript-node/issues"
+  },
+  "homepage": "https://github.com/ritesh4u/ghostscript-node#readme"
+}
